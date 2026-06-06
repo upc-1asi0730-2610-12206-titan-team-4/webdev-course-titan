@@ -15,7 +15,7 @@ El contenido está diseñado para ser claro, visual e interactivo, utilizando ej
 
 ## 📂 Repositorio de Código Fuente
 
-👉 [https://github.com/yourusername/webdev-course-teamname](https://github.com/yourusername/webdev-course-teamname)
+👉 [https://github.com/upc-1asi0730-2610-12206-titan-team-4/webdev-course-titan](https://github.com/upc-1asi0730-2610-12206-titan-team-4/webdev-course-titan)
 
 El repositorio incluye:
 
@@ -116,7 +116,7 @@ El repositorio incluye:
 
 ## 🚀 Recursos Adicionales
 
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/upc-1asi0730-2610-12206-titan-team-4/webdev-course-titan)
 - **Documentación recomendada**: [MDN Web Docs en Español](https://developer.mozilla.org/es/)
 - **Validador de HTML**: [W3C Validator](https://validator.w3.org/)
 
