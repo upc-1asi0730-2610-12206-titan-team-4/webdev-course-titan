@@ -8,7 +8,7 @@ El contenido está diseñado para ser claro, visual e interactivo, utilizando ej
 
 **¡No requiere descargas!** Solo necesitas un navegador web.
 
-- ⏱ **Duración total**: ~100 minutos
+- ⏱ **Duración total**: ~60 minutos
 - 👨‍🎓 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia previa
 - 📚 **Prerrequisitos**: Ninguno
 - 🌐 **Herramientas necesarias**: Navegador web (Chrome, Firefox, Edge, Safari)
@@ -37,7 +37,7 @@ El repositorio incluye:
 
 ---
 
-### 📘 Lección 2: Introducción a HTML — Estructura básica (15 minutos)
+### 📘 Lección 2: Introducción a HTML — Estructura básica (10 minutos)
 
 - **Encargado**: [Integrante]
 - **Descripción**: Explora las etiquetas HTML fundamentales y crea tu primera página web. Aprende qué es una etiqueta, cómo se abren y cierran, y cuál es la estructura mínima de todo documento HTML.
@@ -50,7 +50,7 @@ El repositorio incluye:
 
 ---
 
-### 📙 Lección 3: Elementos HTML comunes — Listas, imágenes y enlaces (20 minutos)
+### 📙 Lección 3: Elementos HTML comunes — Listas, imágenes y enlaces (10 minutos)
 
 - **Encargado**: [Integrante]
 - **Descripción**: Agrega listas, imágenes y enlaces para enriquecer tu página. Aprende a usar atributos dentro de las etiquetas para personalizar cada elemento.
@@ -63,7 +63,7 @@ El repositorio incluye:
 
 ---
 
-### 📕 Lección 4: Introducción a CSS — Selectores y propiedades (20 minutos)
+### 📕 Lección 4: Introducción a CSS — Selectores y propiedades (10 minutos)
 
 - **Encargado**: [Integrante]
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y tamaños. Aprende cómo vincular una hoja de estilos a tu página y cómo funcionan los selectores para apuntar a elementos específicos.
@@ -76,7 +76,7 @@ El repositorio incluye:
 
 ---
 
-### 📒 Lección 5: Estilo simple — Colores, bordes y centrado (20 minutos)
+### 📒 Lección 5: Estilo simple — Colores, bordes y centrado (10 minutos)
 
 - **Encargado**: [Integrante]
 - **Descripción**: Aprende a centrar contenido, añadir colores de fondo, bordes y márgenes para que tu página luzca ordenada y atractiva.
@@ -89,7 +89,7 @@ El repositorio incluye:
 
 ---
 
-### 📘 Lección 6: Proyecto — Crear una página de perfil personal (15 minutos)
+### 📘 Lección 6: Proyecto — Crear una página de perfil personal (10 minutos)
 
 - **Encargado**: Ayala Fernandez, Jorge Brayan (u20241c030)
 - **Descripción**: Combina todo lo aprendido de HTML y CSS para construir tu propia página de perfil. Incluirá tu nombre, una foto, una lista de intereses y un enlace de contacto.
