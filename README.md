@@ -27,7 +27,7 @@ El repositorio incluye:
 
 ### 📗 Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 
-- **Encargado**: [Integrante]
+- **Encargado**: Luciana Celeste Sanchez Silva
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos. Descubre cómo el navegador interpreta el código y lo convierte en lo que ves en pantalla.
 - 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
 - **Consejos clave**:
@@ -39,7 +39,7 @@ El repositorio incluye:
 
 ### 📘 Lección 2: Introducción a HTML — Estructura básica (10 minutos)
 
-- **Encargado**: [Integrante]
+- **Encargado**: Luciana Celeste Sanchez Silva
 - **Descripción**: Explora las etiquetas HTML fundamentales y crea tu primera página web. Aprende qué es una etiqueta, cómo se abren y cierran, y cuál es la estructura mínima de todo documento HTML.
 - 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
 - **Consejos clave**:

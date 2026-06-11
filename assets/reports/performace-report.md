@@ -69,7 +69,7 @@
     <tr>
         <td><b>5</b></td>
         <td>Sanchez Silva, Luciana Celeste</td>
-        <td>[Responsabilidad]</td>
+        <td>Lección 1: ¿Qué es el desarrollo web? y Lección 2: Introducción a HTML (Total 15 minutos) </td>
         <td>X</td>
         <td></td>
         <td></td>
