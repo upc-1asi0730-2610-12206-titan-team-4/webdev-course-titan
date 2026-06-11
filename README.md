@@ -78,7 +78,7 @@ El repositorio incluye:
 
 ### 📒 Lección 5: Estilo simple — Colores, bordes y centrado (10 minutos)
 
-- **Encargado**: [Integrante]
+- **Encargado**: Raymundo Villarroel, Nadhim Abigail (U202318001)
 - **Descripción**: Aprende a centrar contenido, añadir colores de fondo, bordes y márgenes para que tu página luzca ordenada y atractiva.
 - 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Consejos clave**:
@@ -86,6 +86,7 @@ El repositorio incluye:
   - Añadir borde: `border: 2px solid black;`.
   - Espaciado interior: `padding: 10px;`.
 - 💻 **Práctica**: [Clic para programar](https://codepen.io/your-style-pen) 🎨
+- 📁 **Archivos**: [`starter-files/lesson-05/`](starter-files/lesson-05/) · [`completed-examples/lesson-05/`](completed-examples/lesson-05/)
 
 ---
 
@@ -128,7 +129,7 @@ El repositorio incluye:
 |     2     | Estructura HTML básica     | Primera página HTML       |  [CodePen](https://codepen.io/your-lesson2)   |
 |     3     | Listas, imágenes y enlaces | Añadir imágenes y enlaces | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 |     4     | Introducción a CSS         | Estilo de la página       |  [CodePen](https://codepen.io/your-lesson4)   |
-|     5     | Colores, bordes y centrado | Estilo avanzado simple    |  [CodePen](https://codepen.io/your-lesson5)   |
+|     5     | Colores, bordes y centrado | Estilo avanzado simple    | [Ver archivos](starter-files/lesson-05/)      |
 |     6     | Proyecto final             | Página de perfil personal |  [Replit](https://replit.com/@your-lesson6)   |
 |     7     | Consejos y próximos pasos  | Validar y corregir código |  [CodePen](https://codepen.io/your-lesson7)   |
 
