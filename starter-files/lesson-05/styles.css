@@ -1,0 +1,50 @@
+/* =============================================
+   LECCIÓN 5: Estilo simple — Colores, bordes y centrado
+   =============================================
+   Completa cada sección siguiendo las instrucciones.
+   Guarda el archivo y recarga el navegador para ver los cambios.
+   ============================================= */
+
+
+/* --- 1. La tarjeta principal --- */
+/* TODO: Agrega un ancho máximo de 500px, margen automático a los lados
+         para centrarla, padding de 30px y un color de fondo claro. */
+.tarjeta {
+
+}
+
+
+/* --- 2. Encabezado principal --- */
+/* TODO: Centra el texto con text-align y elige un color para la fuente. */
+h1 {
+
+}
+
+
+/* --- 3. Subtítulo --- */
+/* TODO: Cambia el color del texto a cualquier color que te guste.
+         Puedes usar un nombre (p.ej. "tomato") o un código hex (#ff6347). */
+.subtitulo {
+
+}
+
+
+/* --- 4. Sección de intereses --- */
+/* TODO: Agrega un borde de 2px solid con el color que prefieras,
+         un border-radius de 8px y padding de 15px. */
+.seccion {
+
+}
+
+
+/* --- 5. El botón --- */
+/* TODO: Dale al botón:
+   - background-color (elige uno)
+   - color del texto (que contraste con el fondo)
+   - padding: 10px 20px
+   - border: none
+   - border-radius: 5px
+   - cursor: pointer          */
+.boton {
+
+}
