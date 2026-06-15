@@ -41,7 +41,7 @@ El repositorio incluye:
 
 - **Encargado**: Luciana Celeste Sanchez Silva
 - **Descripción**: Explora las etiquetas HTML fundamentales y crea tu primera página web. Aprende qué es una etiqueta, cómo se abren y cierran, y cuál es la estructura mínima de todo documento HTML.
-- 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- 🎬 **Enlace**: [Ver la lección](https://youtu.be/FSDqUUIS_WU)
 - **Consejos clave**:
   - Toda página HTML necesita `<html>`, `<head>` y `<body>`.
   - Los encabezados van de `<h1>` (más importante) a `<h6>` (menos importante).
