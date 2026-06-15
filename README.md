@@ -29,7 +29,7 @@ El repositorio incluye:
 
 - **Encargado**: Luciana Celeste Sanchez Silva
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos. Descubre cómo el navegador interpreta el código y lo convierte en lo que ves en pantalla.
-- 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- 🎬 **Enlace**: [Ver la lección](https://youtu.be/8sxzhy60SkM)
 - **Consejos clave**:
   - Sitios web = Contenido (HTML) + Estilo (CSS).
   - Todo lo que ves en internet está construido con estas dos herramientas.
