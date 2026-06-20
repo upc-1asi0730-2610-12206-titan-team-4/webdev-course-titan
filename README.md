@@ -54,12 +54,12 @@ El repositorio incluye:
 
 - **Encargado**: [Integrante]
 - **Descripción**: Agrega listas, imágenes y enlaces para enriquecer tu página. Aprende a usar atributos dentro de las etiquetas para personalizar cada elemento.
-- 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=Y50X06bItN0)
 - **Consejos clave**:
   - Listas no ordenadas: `<ul>` con elementos `<li>`.
   - Imágenes: `<img src="url" alt="descripción">`.
   - Enlaces: `<a href="url">texto del enlace</a>`.
-- 💻 **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 💻 **¡Comienza al instante!**
+- 💻 **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 💻 **¡Comienza al instante!**
 
 ---
 
