@@ -67,7 +67,7 @@ El repositorio incluye:
 
 - **Encargado**: [Integrante]
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y tamaños. Aprende cómo vincular una hoja de estilos a tu página y cómo funcionan los selectores para apuntar a elementos específicos.
-- 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- 🎬 **Enlace**: [Ver la lección](https://youtu.be/8fzmx-emTFo)
 - **Consejos clave**:
   - Vincula CSS con `<link rel="stylesheet" href="estilos.css">` en el `<head>`.
   - Selector básico: `h1 { color: blue; font-size: 24px; }`.
