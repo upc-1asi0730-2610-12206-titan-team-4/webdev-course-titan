@@ -85,8 +85,7 @@ El repositorio incluye:
   - Centrar texto: `text-align: center;`.
   - Añadir borde: `border: 2px solid black;`.
   - Espaciado interior: `padding: 10px;`.
-- 💻 **Práctica**: [Clic para programar](https://codepen.io/your-style-pen) 🎨
-- 📁 **Archivos**: [`starter-files/lesson-05/`](starter-files/lesson-05/) · [`completed-examples/lesson-05/`](completed-examples/lesson-05/)
+- 💻 **Práctica**: [Abrir en CodePen](https://codepen.io/pen/?template=your-starter)  🎨
 
 ---
 
