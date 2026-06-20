@@ -80,7 +80,7 @@ El repositorio incluye:
 
 - **Encargado**: Raymundo Villarroel, Nadhim Abigail (U202318001)
 - **Descripción**: Aprende a centrar contenido, añadir colores de fondo, bordes y márgenes para que tu página luzca ordenada y atractiva.
-- 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- 🎬 **Enlace**: [Ver la lección](https://youtu.be/dQxlFBZ8pkE?si=-IoVGFMxBLvWq05O)
 - **Consejos clave**:
   - Centrar texto: `text-align: center;`.
   - Añadir borde: `border: 2px solid black;`.
