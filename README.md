@@ -132,7 +132,7 @@ El repositorio incluye:
 |     6     | Proyecto final             | Página de perfil personal |  [Replit](https://replit.com/@your-lesson6)   |
 |     7     | Consejos y próximos pasos  | Validar y corregir código |  [CodePen](https://codepen.io/your-lesson7)   |
 
-- **Cuestionario final**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+- **Cuestionario final**: [Pon a prueba tus conocimientos](https://forms.gle/UPBSLkQJewEWdqQX7)
 - **Comparte en redes**: #WebDevBeginners
 
 **¡Gracias por completar el curso!** 🎉
