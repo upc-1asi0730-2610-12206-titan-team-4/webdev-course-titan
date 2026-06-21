@@ -52,7 +52,7 @@ El repositorio incluye:
 
 ### 📙 Lección 3: Elementos HTML comunes — Listas, imágenes y enlaces (10 minutos)
 
-- **Encargado**: Bruno
+- **Encargado**: Josep Melgarejo Eliu
 - **Descripción**: Agrega listas, imágenes y enlaces para enriquecer tu página. Aprende a usar atributos dentro de las etiquetas para personalizar cada elemento.
 - 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=Y50X06bItN0)
 - **Consejos clave**:
@@ -65,7 +65,7 @@ El repositorio incluye:
 
 ### 📕 Lección 4: Introducción a CSS — Selectores y propiedades (10 minutos)
 
-- **Encargado**: [Integrante]
+- **Encargado**: Bruno
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y tamaños. Aprende cómo vincular una hoja de estilos a tu página y cómo funcionan los selectores para apuntar a elementos específicos.
 - 🎬 **Enlace**: [Ver la lección](https://youtu.be/8fzmx-emTFo)
 - **Consejos clave**:
