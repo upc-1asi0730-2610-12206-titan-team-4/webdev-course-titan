@@ -126,10 +126,10 @@ El repositorio incluye:
 | :-------: | -------------------------- | ------------------------- | :-------------------------------------------: |
 |     1     | ¿Qué es un sitio web?      | Explorar sitios web       |  [CodePen](https://codepen.io/pen/?template=your-starter)   |
 |     2     | Estructura HTML básica     | Primera página HTML       |  [CodePen](https://codepen.io/pen/?template=your-starter)   |
-|     3     | Listas, imágenes y enlaces | Añadir imágenes y enlaces | [JSFiddle](https://jsfiddle.net/your-lesson3) |
+|     3     | Listas, imágenes y enlaces | Añadir imágenes y enlaces | [CodePen](https://codepen.io/pen/?template=your-starter) |
 |     4     | Introducción a CSS         | Estilo de la página       |  [CodePen](https://codepen.io/pen/?template=your-starter)   |
-|     5     | Colores, bordes y centrado | Estilo avanzado simple    | [Ver archivos](starter-files/lesson-05/)      |
-|     6     | Proyecto final             | Página de perfil personal |  [Replit](https://replit.com/@your-lesson6)   |
+|     5     | Colores, bordes y centrado | Estilo avanzado simple    | [CodePen](https://codepen.io/pen/?template=your-starter)      |
+|     6     | Proyecto final             | Página de perfil personal |  [CodePen](https://codepen.io/pen/?template=your-starter)   |
 |     7     | Consejos y próximos pasos  | Validar y corregir código |  [CodePen](https://codepen.io/pen/?template=your-starter)   |
 
 - **Cuestionario final**: [Pon a prueba tus conocimientos](https://forms.gle/UPBSLkQJewEWdqQX7)
