@@ -46,7 +46,7 @@ El repositorio incluye:
   - Toda página HTML necesita `<html>`, `<head>` y `<body>`.
   - Los encabezados van de `<h1>` (más importante) a `<h6>` (menos importante).
   - Los párrafos se crean con la etiqueta `<p>`.
-- 💻 **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 💻 **¡Comienza al instante!**
+- 💻 **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter) 💻 **¡Comienza al instante!**
 
 ---
 
@@ -59,7 +59,7 @@ El repositorio incluye:
   - Listas no ordenadas: `<ul>` con elementos `<li>`.
   - Imágenes: `<img src="url" alt="descripción">`.
   - Enlaces: `<a href="url">texto del enlace</a>`.
-- 💻 **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 💻 **¡Comienza al instante!**
+- 💻 **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter) 💻 **¡Comienza al instante!**
 
 ---
 
@@ -72,7 +72,7 @@ El repositorio incluye:
   - Vincula CSS con `<link rel="stylesheet" href="estilos.css">` en el `<head>`.
   - Selector básico: `h1 { color: blue; font-size: 24px; }`.
   - Cambia el fondo de la página: `body { background-color: lightgray; }`.
-- 💻 **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 🎨
+- 💻 **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/?template=your-starter) 🎨
 
 ---
 
@@ -124,13 +124,13 @@ El repositorio incluye:
 
 | Lección # | Tema                       | Actividad                 |              Empezar a programar              |
 | :-------: | -------------------------- | ------------------------- | :-------------------------------------------: |
-|     1     | ¿Qué es un sitio web?      | Explorar sitios web       |  [CodePen](https://codepen.io/your-lesson1)   |
-|     2     | Estructura HTML básica     | Primera página HTML       |  [CodePen](https://codepen.io/your-lesson2)   |
+|     1     | ¿Qué es un sitio web?      | Explorar sitios web       |  [CodePen](https://codepen.io/pen/?template=your-starter)   |
+|     2     | Estructura HTML básica     | Primera página HTML       |  [CodePen](https://codepen.io/pen/?template=your-starter)   |
 |     3     | Listas, imágenes y enlaces | Añadir imágenes y enlaces | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-|     4     | Introducción a CSS         | Estilo de la página       |  [CodePen](https://codepen.io/your-lesson4)   |
+|     4     | Introducción a CSS         | Estilo de la página       |  [CodePen](https://codepen.io/pen/?template=your-starter)   |
 |     5     | Colores, bordes y centrado | Estilo avanzado simple    | [Ver archivos](starter-files/lesson-05/)      |
 |     6     | Proyecto final             | Página de perfil personal |  [Replit](https://replit.com/@your-lesson6)   |
-|     7     | Consejos y próximos pasos  | Validar y corregir código |  [CodePen](https://codepen.io/your-lesson7)   |
+|     7     | Consejos y próximos pasos  | Validar y corregir código |  [CodePen](https://codepen.io/pen/?template=your-starter)   |
 
 - **Cuestionario final**: [Pon a prueba tus conocimientos](https://forms.gle/UPBSLkQJewEWdqQX7)
 - **Comparte en redes**: #WebDevBeginners
