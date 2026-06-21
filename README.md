@@ -52,7 +52,7 @@ El repositorio incluye:
 
 ### 📙 Lección 3: Elementos HTML comunes — Listas, imágenes y enlaces (10 minutos)
 
-- **Encargado**: [Integrante]
+- **Encargado**: Bruno
 - **Descripción**: Agrega listas, imágenes y enlaces para enriquecer tu página. Aprende a usar atributos dentro de las etiquetas para personalizar cada elemento.
 - 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=Y50X06bItN0)
 - **Consejos clave**:
