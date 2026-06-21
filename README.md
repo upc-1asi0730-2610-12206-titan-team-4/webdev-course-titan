@@ -93,11 +93,11 @@ El repositorio incluye:
 
 - **Encargado**: Ayala Fernandez, Jorge Brayan (u20241c030)
 - **Descripción**: Combina todo lo aprendido de HTML y CSS para construir tu propia página de perfil. Incluirá tu nombre, una foto, una lista de intereses y un enlace de contacto.
-- 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- 🎬 **Enlace**: [Ver la lección](https://youtu.be/1i7yOmhF9vU)
 - **Consejos clave**:
   - Aplica los estilos aprendidos y depura errores revisando la consola del navegador.
   - Usa colores que contrasten bien para mejorar la legibilidad.
-- 💻 **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 🌟
+- 💻 **Proyecto Final**: [Crea tu Perfil](https://codepen.io/Brayan-Ayala-the-decoder/pen/VYPpdmp) 🌟
 
 ---
 
@@ -105,7 +105,7 @@ El repositorio incluye:
 
 - **Encargado**: Ayala Fernandez, Jorge Brayan (u20241c030)
 - **Descripción**: Repasa las mejores prácticas, los errores más frecuentes al aprender HTML y CSS, y descubre recursos gratuitos para seguir aprendiendo por tu cuenta.
-- 🎬 **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link7)
+- 🎬 **Enlace**: [Ver la lección](https://youtu.be/mOvS_SeToKE)
 - **Consejos clave**:
   - Valida tu código en [validator.w3.org](https://validator.w3.org/).
   - Consulta la documentación oficial en [MDN Web Docs](https://developer.mozilla.org/es/).
